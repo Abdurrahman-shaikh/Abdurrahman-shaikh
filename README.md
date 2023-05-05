@@ -1,5 +1,7 @@
+[![MasterHead](https://user-images.githubusercontent.com/76674591/193411913-1e70d4db-3298-45cd-b21b-4cd357f78287.gif)]
 <h1 align="center">Hi 👋, I'm Abdur Rahman</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="">
 
 <p align="left"> <a href="https://twitter.com/abdurra73578581" target="blank"><img src="https://img.shields.io/twitter/follow/abdurra73578581?logo=twitter&style=for-the-badge" alt="abdurra73578581" /></a> </p>
 
