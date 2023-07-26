@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdurra73578581" target="blank"><img src="https://img.shields.io/twitter/follow/abdurra73578581?logo=twitter&style=for-the-badge" alt="abdurra73578581" /></a> </p>
 
-- 💬 Ask me about **Bash , Java , MERN Stack**
+- 💬 Ask me about **Bash , Java ,MySql**
 
 - 📫 How to reach me **abdurrahmanshaikh830@gmail.com**
 
