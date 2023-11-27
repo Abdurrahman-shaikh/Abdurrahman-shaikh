@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Spring, Spring-boot and Linux**
 
-- 💬 Ask me about **Linux, Bash-Scripting, Java, MySql and Data Structure, Servlet & JSP, JavaScript**
+- 💬 Ask me about **Java, Servlet, JSP, JavaScript, Spring-boot, Linux, Bash-Scripting, MySql and Data Structure**
 
 - 📫 How to reach me **abdurrahmanshaikh830@gmail.com**
 
